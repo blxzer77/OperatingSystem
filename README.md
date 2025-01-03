@@ -77,7 +77,7 @@ OperatingSystem/
 ## 如何运行
 1. 克隆项目
 ```bash
-git clone [项目地址]
+git clone https://github.com/blxzer77/OperatingSystem.git
 ```
 
 2. 编译项目
